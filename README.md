@@ -14,4 +14,15 @@ Clicking on a button: SPACEBAR
 Going backwards from a specific menu to main menu: ESC Key
 
 LICENSE INFO:
-The project is under the 
+The project is under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+# Acknowledgements
+Artwork from Scarloxy
+https://scarloxy.itch.io/mpwsp01
+
+Learning and Sounds from ClearCode
+https://www.youtube.com/watch?v=fo4e3njyGy0&t=42s&ab_channel=ClearCode
+
+# Documentation
+https://nwccnsweduau-my.sharepoint.com/:w:/g/personal/daksh_vykatil_nwcc_nsw_edu_au/EQ0EYv2hvudEuFMLxVEpkpsBsnRxWcu9Bw1EPYPmRtB5Dg?e=0CTXI1
+
