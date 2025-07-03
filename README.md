@@ -2,7 +2,7 @@
 A simple, interactive turn-based monster battling simulator. Players control their creature and can attack, heal, or switch to different creatures to fight against enemy creatures. 
 
 # How to install
-1. Install the zip folder within the repository
+1. Install the zip folder within the repository by clicking the download raw file
 2. Extract the zip folder to your desired location
 3. Install the pygame framework within the terminal with the command "pip install pygame-ce"
 4. run the main.py file in the code folder
